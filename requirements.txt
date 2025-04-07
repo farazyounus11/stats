@@ -1,0 +1,13 @@
+streamlit
+pandas
+joblib
+scikit-learn
+matplotlib
+numpy
+Pillow
+streamlit_pandas
+streamlit_pdf_viewer
+plotly
+seaborn
+vega-datasets
+yfinance
